@@ -1,0 +1,5 @@
+en:
+  topic_answered_filter:
+    all: "any status"
+    unanswered: "unanswered"
+    answered: "answered"
